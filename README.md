@@ -3,7 +3,6 @@
 Use this app to count the reporting time of each member of your team
 
 <img src="./github/assets/daily-counter-screen.png" alt="daily counter screen" width="500" />
-<br></br>
 
 Clone the project and access its folder.
 
